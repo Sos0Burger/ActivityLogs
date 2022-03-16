@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="ClickCounter">0</string>
+</resources>
